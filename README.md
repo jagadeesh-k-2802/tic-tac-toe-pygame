@@ -1,5 +1,5 @@
 # tic-tac-toe-pygame
-Simple 2 Player Tic Tac Toe Game Made With Python And Pygame
+2 Player Tic-Tac-Toe Game in PyGame
 
 ![screenshot-1](/screenshots/screenshot-1.jpg)
 
